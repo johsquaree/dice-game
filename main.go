@@ -1,4 +1,4 @@
-package dicegame
+package main
 
 import (
 	"fmt"
